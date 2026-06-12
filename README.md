@@ -1,4 +1,4 @@
-# Data-Modeling-and-Interactive-Dashboarding-using-Excel
+# Pizza Sales Analytics Dashboard
 ### Aim of the project:
 1. Analysis of a Pizza sales dataset to find out insights like 
 - Monthly sales trend. 
